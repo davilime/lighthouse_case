@@ -1,6 +1,7 @@
 # Análise de Dados de Aluguéis - Case Lighthouse
 
 Este repositório contém uma análise exploratória de dados (EDA) aplicada a um conjunto de dados de aluguéis, com foco em entender padrões de preço, disponibilidade e melhores locais para investimento em hospedagens.
+O vídeo está em https://drive.google.com/drive/folders/11LXrskI77qhhm9hGj9YkqP6Onpu7rXT5?usp=drive_link
 
 ## 📌 Descrição do Projeto
 
